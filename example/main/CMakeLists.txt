@@ -1,0 +1,1 @@
+idf_component_register(SRCS "show_component_bug_main.c")

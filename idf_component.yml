@@ -1,0 +1,11 @@
+version: 0.0.1
+description: show component bug issue.
+
+dependencies:
+  idf:
+    version: '>=5.3'
+  ## esp_lcd_touch isn't used, this is only to show that a download to managed_components worked ok
+  esp_lcd_touch:
+    version: '>=1.1.1'
+
+
